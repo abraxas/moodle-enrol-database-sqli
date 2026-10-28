@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/moodle-enrol-database-sqli">moodle-enrol-database-sqli</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/moodle-enrol-database-sqli"><strong>https://abraxaslabs.tech/research/moodle-enrol-database-sqli</strong></a>
+</p>
+
 
 # moodle-enrol-database-sqli
 
